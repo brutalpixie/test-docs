@@ -1,2 +1,2 @@
 
-Learn to see the [about](about.md) page.
+Learn to see the [about](/_pages/about.md) page.

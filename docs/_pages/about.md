@@ -6,5 +6,5 @@ js: index
 ---
 
 
-[go back](index.md). This is an About page.
+[go back](index.html). You're seeing the About page.
 

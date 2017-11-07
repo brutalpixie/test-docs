@@ -6,5 +6,5 @@ js: index
 ---
 
 
-This is an About page.
+[go back](index.md). This is an About page.
 
